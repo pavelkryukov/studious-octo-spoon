@@ -1,0 +1,1 @@
+g++ source/kramer.cpp -O3 -Wall -Werror -std=c++98 -pedantic -pthread -o bin/kramer
